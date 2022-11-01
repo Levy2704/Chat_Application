@@ -42,6 +42,7 @@ namespace chatApp
             grid = 3,
             exit = 4
         }
+        public string github;
         public string username;
         public bool buy = false;
         public bool sell = false;
